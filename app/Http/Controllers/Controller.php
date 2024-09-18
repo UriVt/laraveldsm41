@@ -15,3 +15,7 @@ function funcion1(){
 function funcion2(){
 
 }
+
+function funcion3(){
+
+}
