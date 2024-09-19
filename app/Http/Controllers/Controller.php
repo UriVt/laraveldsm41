@@ -11,7 +11,10 @@ function funcion1(){
     
 }
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 function funcion2(){
 
 }
